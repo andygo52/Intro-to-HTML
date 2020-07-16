@@ -1,5 +1,7 @@
 Welcome to Fundamentals of Web and Software Development!  
+
 You have arrived just in time!!!  
+
 For our first assignment, introduce yourself by answering the following questions: 
   
 1. What is your name?  
